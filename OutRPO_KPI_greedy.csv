@@ -1,0 +1,38 @@
+demand,manmonths,% of requirement
+requirement,25822
+Asigned,20985,0.8126791108357215
+Asigned_Q,18373,0.7115250561536675
+Asigned_T,1492,0.05778018743706917
+Asigned_H,1120,0.0433738672449849
+unasigned,4837,0.18732088916427853
+""
+capacity,manmonths,% of installed
+installed(internal),30551
+used(internal),19865,0.6502242152466368
+used for training(internal),243,0.007953913128866485
+idle,10443,0.34182187162449673
+increase(Hire),1120,0.03666001112893195
+leadtime(Hire),297
+""
+resources,value
+available Workers(internal),1309
+asigned Workers_Q(internal),825
+average MS Workers_Q(internal),74.1058002242424
+asigned Workers_T(internal),82
+average MS Workers_T(internal),63.66361499999999
+idel Workers(internal),402
+asigned hired Workers,57
+hire limit,57
+positions,1093
+unfilled positions,129
+Worker Late Q,48
+Avg periods late Q,16.645833333333332
+Worker Late T,70
+Avg periods late T,6.857142857142857
+Avg readinesss for late T,4.857142857142857
+Avg trainTime for late T,3.0714285714285716
+Worker Late H,49
+Avg periods late H,4.3061224489795915
+Assign cost,36090.24897699999
+Gap cost,1371008.5208640003
+total cost,1371008.5208640003
